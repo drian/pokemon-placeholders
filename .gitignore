@@ -1,0 +1,20 @@
+# .gitignore
+OBF
+SV01_AutoPlaceholders
+SV02_AutoPlaceholders
+SV03_AutoPlaceholders
+venv
+cards_placeholder.csv
+convert_psd_to_png.py
+export_to_png.jsx
+generate_cards_csv.py
+masterCard.psd
+*.log
+*.tmp
+*.pyc
+__pycache__/
+node_modules/
+.env
+.DS_Store
+Thumbs.db
+.vscode/
